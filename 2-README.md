@@ -1,4 +1,4 @@
-# 🕸️ Web Scraping Lab
+# 🕸️ Web Scraping 
 > 🧰 Tools Used: Python, Requests, BeautifulSoup
 
 ## Objectives
